@@ -19,7 +19,3 @@
 - JavaScript
 
 ---
-
-## 📸 Preview
-![Blossomia Preview]
-(images/bgf.avif)
