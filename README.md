@@ -4,18 +4,6 @@
 
 ---
 
-## ✨ Features
-
-- Login & Signup functionality with email capture
-- Dynamic popup modals
-- Add to cart with empty cart alert
-- Smooth scrolling and responsive design
-
----
-
-## 🛠️ Tech Stack
-- HTML
-- CSS
-- JavaScript
-
----
+## 📸 Preview
+![Blossomia Preview]
+https://blossomia-bouquets.netlify.app/
